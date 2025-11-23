@@ -13,6 +13,6 @@ tap "artygus/tap"
 brew "<formula>"
 ```
 
-## Documentation
+## Software
 
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+- [mdkir](https://github.com/artygus/mdkir)
